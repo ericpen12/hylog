@@ -1,29 +1,23 @@
 {
-  "name": "nolog",
+  "name": "hylog",
   "version": "1.0.0",
-  "description": "",
-  "main": "nolog.js",
+  "description": "```\r npm install hylog --save\r ```",
+  "main": "hylog.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "git-cz"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quzhen12/nolog.git"
+    "url": "git+https://github.com/quzhen12/hylog.git"
   },
   "keywords": [],
-  "author": "quzhen12",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/quzhen12/nolog/issues"
+    "url": "https://github.com/quzhen12/hylog/issues"
   },
-  "homepage": "https://github.com/quzhen12/nolog#readme",
-  "dependencies": {
-    "commitizen": "^4.0.3"
-  },
-  "config": {
-    "commitizen": {
-      "path": "node_modules/cz-conventional-changelog"
-    }
-  }
+  "homepage": "https://github.com/quzhen12/hylog#readme"
 }
