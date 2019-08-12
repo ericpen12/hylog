@@ -1,9 +1,9 @@
-# Nolog
+# Hylog
 
 # Installation
 
 ```
-npm install nolog --save
+npm install hylog --save
 ```
 
 
@@ -11,7 +11,7 @@ npm install nolog --save
 ## Quick Start
 
 ```
-let log = require("nolog")
+let log = require("hylog")
 
 log.debug("debug")
 log.info("info")
