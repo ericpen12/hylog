@@ -1,6 +1,6 @@
 # Hylog
 
-[![](https://img.shields.io/github/license/quzhen12/hylog)](LICENSE)
+[![Travis (.org)](https://img.shields.io/travis/quzhen12/hylog?style=flat-square)](travis-ci)[![](https://img.shields.io/aur/license/pac?style=flat-square)](LICENSE)
 
 > This is a simple beautiful log
 
