@@ -1,6 +1,6 @@
 {
   "name": "hylog",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "```\r npm install hylog --save\r ```",
   "main": "hylog.js",
   "directories": {
@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/quzhen12/hylog/issues"
   },
