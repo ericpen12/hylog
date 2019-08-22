@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/quzhen12/hylog.git"
   },
-  "keywords": [],
+  "keywords": ["log", "logger", "debug", "quzhen"],
   "author": "",
   "license": "MIT",
   "bugs": {
