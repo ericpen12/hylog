@@ -1,6 +1,7 @@
 # Hylog
 
-[![Travis (.org)](https://img.shields.io/travis/quzhen12/hylog?style=flat-square)](travis-ci) [![](https://img.shields.io/aur/license/pac?style=flat-square)](LICENSE)
+[![Travis (.org)](https://img.shields.io/travis/quzhen12/hylog?style=flat-square)](travis-ci) [![](https://img.shields.io/github/license/quzhen12/hylog?style=flat-square)](LICENSE)
+
 > This is a simple beautiful log
 
 This log is convenient to use, and it will provide the information about the log type, recording time, log position and log message. You can distinguish different log types easily according to different grade colors. It's clear to get the error message and find the log position from the log message when something wrong.
